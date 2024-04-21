@@ -171,23 +171,23 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a Sigma-Tau!
-    text: AI aplicado al mundo real
+    text: Soluciones basadas en AI que optizará el rendimiento de tu compañía
     button: Ver más
     buttonlink: "#servicios"
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: ""
     section: servicios
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Tecnología"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Soluciones a medida"
+        desc: "Con nuestra ayuda, te facilitaremos el proceso de transición para el diseño de soluciones basadas en datos"
+        icon: fas fa-star #find more at https://fontawesome.com/icons
+      - title: "Soluciones Empresariales"
+        desc: "Gracias a nuestra basta experiencia en empresas relacionadas a Retail, industria energética y banca, contamos con variadas soluciones pre diseñadas para la optimización de tu Empresa"
         icon: fas fa-laptop
       - title: "Educación"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "Con nuestros programas de capacitaciones, llevaremos a tu equipo de Analytics al siguiente nivel, abarcando diversos tópicos dentro del mundo del Data Science y la Inteligencia Artificial."
         icon: fa fa-graduation-cap
 
   portfolio:
@@ -230,7 +230,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre nosotros"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "στ o Sigma-tau nace como una iniciativa de profesionales relacionados al mundo de Data Science, con la clara misión de optimizar los procesos que puedan mejorar a partir de los datos. Para lograr este objetivo, se cuenta con un grupo de profesionales altamente capacitados en diferentes áreas relacionadas a la Inteligencia Artificial, que van desde problemas de Forecasting, diseño de evaluación de campañas de Marketing hasta Análitica textual para el análisis de sentimientos."
     section: nosotros
 
   clients:
