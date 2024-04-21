@@ -253,33 +253,33 @@ es: &DEFAULT_ES
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Comité ejecutivo"
+    subtext: Nuestro equipo está compuesto por profesionales altamente capacitados que siempre van a la vanguardia del conocimiento relacionado a la Inteligencia Artificial. Esto se ve reflejado en sus constantes  presencias en congresos y su activa participación en proyectos open source.
     section: equipo
     people:
       - name: "Diego Alvarez"
         role: "Chief Executive Officer"
         image: assets/img/team/dalvarez.jpg
         social:
-          - url: https://github.com
+          - url: https://github.com/diegoalvarezmeza
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/diego-alvarez-meza-674ba3154/
             icon: fab fa-linkedin-in
       - name: "Francisco Alfaro"
         role: "Chief Technology Officer"
         image: assets/img/team/fralfaro.jpg
         social:
-          - url: https://github.com
+          - url: https://github.com/fralfaro
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/faam/
             icon: fab fa-linkedin-in
       - name: "Francisco Benavides"
         role: "Chief AI Officer"
         image: assets/img/team/fbenavides.jpg
         social:
-          - url: https://github.com
+          - url: https://github.com/fbenav
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/francisco-benavides-653544a9/
             icon: fab fa-linkedin-in
 
   contact:
