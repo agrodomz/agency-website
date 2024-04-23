@@ -192,64 +192,66 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Relacionandos con nuestra comunidad"
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
   timeline:
     title: "Cronología"
-    text: "Lorem ipsum timeline"
+    text: "Nuestra Historia"
     section: cronologia
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Nuestro Formación"
+        year: "2011-2017"
+        desc: "Nuestro equipo de ingenieros matemáticos se formó en la Universidad Federico Santa María (USM), fortaleciendo habilidades en análisis, modelado y resolución de problemas complejos a través de proyectos desafiantes. Esta etapa fue crucial para establecer una cultura de colaboración y pasión por la innovación que nos impulsa hacia nuevos logros."
+
+        image: assets/img/timeline/5.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Nuestro Trabajo"
+        year: "2018-2022"
+        desc: "Nos destacamos en una amplia gama de sectores y roles, especialmente en perfiles de datos. Adquirimos un profundos conocimientos, tanto en habilidades técnicas como de liderazgo. Enfrentamos desafíos complejos con versatilidad y un compromiso inquebrantable con la excelencia."
+        image: assets/img/timeline/6.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Nuestro comienzo"
+        year: "2022-2023"
+        desc: "Nuestro comienzo como consultora surgió de la visión compartida de un equipo diverso de expertos en tecnología, estrategia y creatividad. Desde una pequeña oficina, enfrentamos desafíos iniciales con pasión y determinación, creciendo juntos hacia la excelencia y convirtiéndonos en la consultora de confianza para empresas de todos los sectores."
+
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
+      - title: "Nuestro Cliente"
+        year: "2023-2024"
+        desc: "Nuestro primer cliente, 'Cambios La Torre', nos buscó para mejorar su gestión de datos financieros. Desarrollamos soluciones innovadoras que optimizaron la recopilación, almacenamiento y análisis de datos. Esto fortaleció la seguridad de sus operaciones y sentó las bases para una relación de confianza sólida."
+        image: assets/img/timeline/latorre.jpg
+        alt: image alt text
         # you can enforce the alignment
-        align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
     title: "Sobre nosotros"
-    text: "nuestra historia"
+    text: ""
     body: "στ o Sigma-tau nace como una iniciativa de profesionales relacionados al mundo de Data Science, con la clara misión de optimizar los procesos que puedan mejorar a partir de los datos. Para lograr este objetivo, se cuenta con un grupo de profesionales altamente capacitados en diferentes áreas relacionadas a la Inteligencia Artificial, que van desde problemas de Forecasting, diseño de evaluación de campañas de Marketing hasta Análitica textual para el análisis de sentimientos."
     section: nosotros
 
   clients:
     section: clientes
+    title: "Comité ejecutivo"
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/walmart.png
+        logo: assets/img/clients/bank.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/cencosud.png
+        logo: assets/img/clients/hat2.png
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/gasco.png
+        logo: assets/img/clients/retail.png
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/usm2.png
+        logo: assets/img/clients/energy.png
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
@@ -284,7 +286,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Sigmatau.aa@gmail.com o llamar al +56968458008"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."

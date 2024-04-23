@@ -1,18 +1,21 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: Blog
+subtitle: Nuestros artículos.
+image: assets/img/portfolio/blog.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Blog
+  subtitle: Nuestros artículos
+  thumbnail: assets/img/portfolio/blog.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+Nuestra empresa se compromete firmemente a compartir conocimientos. Francisco Alfaro, miembro destacado de nuestro equipo, nutre esta misión a través de su blog. 
+
+El blog de Francisco Alfaro cubre una variedad de temas relacionados con el desarrollo de software, la ciencia de datos y la tecnología en general. Se centra en proporcionar orientación, consejos prácticos y soluciones innovadoras para mejorar la eficiencia y la calidad en proyectos de programación.
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Autor: [Francisco Alfaro](https://fralfaro.github.io/portfolio/)
+- Blog: [Link del enlace](https://fralfaro.github.io/blog/)
 

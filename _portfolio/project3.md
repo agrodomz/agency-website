@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Charlas
+subtitle: Nuestros charlas.
+image: assets/img/portfolio/talk.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Charlas
+  subtitle: Nuestros charlas
+  thumbnail: assets/img/portfolio/talk.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Nuestro equipo también ofrece charlas a diversas comunidades de código abierto, tanto a nivel nacional como internacional, con el objetivo de democratizar la cultura de los datos. 
+
+Estas charlas cubren una amplia variedad de temas relacionados con la ciencia de datos y la tecnología, y están diseñadas para llegar a audiencias diversas y promover el acceso a la información y la educación en el campo de los datos.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Autor: [Francisco Alfaro](https://fralfaro.github.io/portfolio/)
+- Charlas: [Link del enlace](https://fralfaro.github.io/portfolio/research/talks/)
 
