@@ -2,13 +2,14 @@
 layout: page
 title: Privacy Policy
 ---
+
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">POLÍTICA DE PRIVACIDAD</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+En Sigma-Tau, valoramos su privacidad y nos comprometemos a proteger su información personal. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos su información cuando visita nuestro sitio web.
 
-**PERSONAL INFORMATION WE COLLECT**
+**INFORMACIÓN PERSONAL QUE RECOPILAMOS**
 
 {% if site.analytics.google %}
 
@@ -24,14 +25,13 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
-
+En Sigma-Tau, no recopilamos ni almacenamos ningún dato personal sobre usted cuando visita nuestro sitio web. No utilizamos cookies ni otras tecnologías de seguimiento para recopilar información personal.
 {% endif %}
 
-**CHANGES**
+**CAMBIOS**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento y sin previo aviso. Le recomendamos que revise periódicamente esta página para estar al tanto de cualquier cambio. Los cambios serán efectivos inmediatamente después de su publicación en esta página.
 
-**CONTACT US**
+**CONTÁCTENOS**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Si tiene alguna pregunta sobre nuestra política de privacidad o sobre cómo manejamos su información personal, no dude en contactarnos por correo electrónico a Sigmatau.aa@gmail.com.
