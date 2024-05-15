@@ -1,7 +1,7 @@
-# ¡Bienvenido a Agrodomz!
+# ¡Bienvenido a DataDomz!
 
-[![example workflow](https://github.com/agrodomz/agency-website/actions/workflows/documentation.yml/badge.svg)](https://github.com/agrodomz/agency-website/actions)
-[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://agrodomz.github.io/agency-website/)
+[![example workflow](https://github.com/datadomz/agency-website/actions/workflows/documentation.yml/badge.svg)](https://github.com/datadomz/agency-website/actions)
+[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://datadomz.github.io/agency-website/)
 
 Optimiza el Potencial de tu Empresa con Soluciones Basadas en Inteligencia Artificial.
 
@@ -23,7 +23,7 @@ Optimiza el Potencial de tu Empresa con Soluciones Basadas en Inteligencia Artif
 
 ### SOBRE NOSOTROS
 
-Agrodomz nació de la pasión por la optimización de procesos a través de los datos. Nuestro equipo de expertos en Data Science y AI está comprometido con la excelencia y la innovación en todas las áreas, desde el forecasting hasta el análisis de sentimientos.
+DataDomz nació de la pasión por la optimización de procesos a través de los datos. Nuestro equipo de expertos en Data Science y AI está comprometido con la excelencia y la innovación en todas las áreas, desde el forecasting hasta el análisis de sentimientos.
 
 ### INNOVACIÓN DESTACADA
 
@@ -39,7 +39,7 @@ Introducimos AgroSense, una plataforma revolucionaria que utiliza inteligencia a
 
 - **2018-2022:** Consolidación de nuestra experiencia en diversos sectores, destacando en perfiles de análisis de datos y liderazgo.
 
-- **2022-2023:** Fundación de Agrodomz como consultora de referencia en IA y Data Science.
+- **2022-2023:** Fundación de DataDomz como consultora de referencia en IA y Data Science.
 
 - **2023-2024:** Lanzamiento exitoso de AgroCrono, nuestra innovadora solución para el sector agrícola.
 
@@ -54,6 +54,6 @@ Nuestro equipo está comprometido con la excelencia y la innovación, demostrado
 
 ### CONTÁCTANOS
 
-¡Hablemos! Escríbenos a agrodomz.aa@gmail.com o llámanos al +
+¡Hablemos! Escríbenos a datadomz.aa@gmail.com o llámanos al +
 para descubrir cómo podemos potenciar tu empresa con inteligencia artificial.
 
