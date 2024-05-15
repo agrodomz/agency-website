@@ -7,7 +7,7 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">POLÍTICA DE PRIVACIDAD</h2>
 </div>
 
-En Sigma-Tau, valoramos su privacidad y nos comprometemos a proteger su información personal. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos su información cuando visita nuestro sitio web.
+En AgroDomz, valoramos su privacidad y nos comprometemos a proteger su información personal. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos su información cuando visita nuestro sitio web.
 
 **INFORMACIÓN PERSONAL QUE RECOPILAMOS**
 
@@ -25,7 +25,7 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-En Sigma-Tau, no recopilamos ni almacenamos ningún dato personal sobre usted cuando visita nuestro sitio web. No utilizamos cookies ni otras tecnologías de seguimiento para recopilar información personal.
+En AgroDomz, no recopilamos ni almacenamos ningún dato personal sobre usted cuando visita nuestro sitio web. No utilizamos cookies ni otras tecnologías de seguimiento para recopilar información personal.
 {% endif %}
 
 **CAMBIOS**
@@ -34,4 +34,4 @@ Nos reservamos el derecho de actualizar esta política de privacidad en cualquie
 
 **CONTÁCTENOS**
 
-Si tiene alguna pregunta sobre nuestra política de privacidad o sobre cómo manejamos su información personal, no dude en contactarnos por correo electrónico a Sigmatau.aa@gmail.com.
+Si tiene alguna pregunta sobre nuestra política de privacidad o sobre cómo manejamos su información personal, no dude en contactarnos por correo electrónico a agrodomz@gmail.com.

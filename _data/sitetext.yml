@@ -170,8 +170,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a Sigma-Tau!
-    text: Soluciones basadas en AI que optizará el rendimiento de tu compañía
+    title: ¡Bienvenido a AgroDomz!
+    text: Optimiza el Potencial de tu Empresa con Soluciones Basadas en Inteligencia Artificial
     button: Ver más
     buttonlink: "#servicios"
 
@@ -180,14 +180,14 @@ es: &DEFAULT_ES
     text: ""
     section: servicios
     list:
-      - title: "Soluciones a medida"
-        desc: "Con nuestra ayuda, te facilitaremos el proceso de transición para el diseño de soluciones basadas en datos"
+      - title: "Soluciones Personalizadas"
+        desc: "Facilitamos tu transición hacia la era digital con soluciones diseñadas a medida, aprovechando el poder de los datos para impulsar tu negocio"
         icon: fas fa-star #find more at https://fontawesome.com/icons
       - title: "Soluciones Empresariales"
-        desc: "Gracias a nuestra basta experiencia en empresas relacionadas a Retail, industria energética y banca, contamos con variadas soluciones pre diseñadas para la optimización de tu Empresa"
+        desc: "Desde retail hasta banca, nuestro expertise abarca una amplia gama de industrias. Ofrecemos soluciones pre-diseñadas para mejorar la eficiencia y la rentabilidad de tu empresa"
         icon: fas fa-laptop
-      - title: "Educación"
-        desc: "Con nuestros programas de capacitaciones, llevaremos a tu equipo de Analytics al siguiente nivel, abarcando diversos tópicos dentro del mundo del Data Science y la Inteligencia Artificial."
+      - title: "Capacitación Avanzada"
+        desc: "Eleva el nivel de tu equipo con nuestros programas de formación en Data Science e Inteligencia Artificial, diseñados para impulsar la capacidad analítica y la innovación dentro de tu organización."
         icon: fa fa-graduation-cap
 
   portfolio:
@@ -205,25 +205,24 @@ es: &DEFAULT_ES
     events:
       - title: "Nuestro Formación"
         year: "2011-2017"
-        desc: "Nuestro equipo de ingenieros matemáticos se formó en la Universidad Federico Santa María (USM), fortaleciendo habilidades en análisis, modelado y resolución de problemas complejos a través de proyectos desafiantes. Esta etapa fue crucial para establecer una cultura de colaboración y pasión por la innovación que nos impulsa hacia nuevos logros."
+        desc: "Durante los años 2011-2017, nuestro equipo se formó en instituciones líderes como la Universidad Federico Santa María y la Universidad de los Andes. Adquirimos habilidades sólidas en análisis y modelado de datos, preparándonos para enfrentar desafíos complejos en el mundo de la inteligencia artificial."
 
         image: assets/img/timeline/5.jpg
         alt:
       - title: "Nuestro Trabajo"
         year: "2018-2022"
-        desc: "Nos destacamos en una amplia gama de sectores y roles, especialmente en perfiles de datos. Adquirimos un profundos conocimientos, tanto en habilidades técnicas como de liderazgo. Enfrentamos desafíos complejos con versatilidad y un compromiso inquebrantable con la excelencia."
+        desc: "Desde 2018 hasta 2022, consolidamos nuestra experiencia en una amplia variedad de sectores. Nos destacamos en perfiles de análisis de datos y liderazgo, colaborando en proyectos que nos permitieron aplicar nuestras habilidades de manera efectiva y alcanzar resultados excepcionales para nuestros clientes."
         image: assets/img/timeline/6.jpg
         alt:
       - title: "Nuestro comienzo"
         year: "2022-2023"
-        desc: "Nuestro comienzo como consultora surgió de la visión compartida de un equipo diverso de expertos en tecnología, estrategia y creatividad. Desde una pequeña oficina, enfrentamos desafíos iniciales con pasión y determinación, creciendo juntos hacia la excelencia y convirtiéndonos en la consultora de confianza para empresas de todos los sectores."
-
+        desc: "En los años 2022-2023, dimos el primer paso hacia nuestra visión al fundar Agrodomz como una consultora líder en inteligencia artificial y ciencia de datos. Este fue un momento crucial en nuestra historia, donde nos comprometimos a ofrecer soluciones innovadoras que impulsaran el crecimiento y la transformación digital en diversas industrias."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Nuestro Cliente"
         year: "2023-2024"
-        desc: "Nuestro primer cliente, 'Cambios La Torre', nos buscó para mejorar su gestión de datos financieros. Desarrollamos soluciones innovadoras que optimizaron la recopilación, almacenamiento y análisis de datos. Esto fortaleció la seguridad de sus operaciones y sentó las bases para una relación de confianza sólida."
-        image: assets/img/timeline/latorre.jpg
+        desc: "En el período 2023-2024, lanzamos con éxito AgroCrono, nuestra solución pionera diseñada específicamente para el sector agrícola. Este hito marcó un importante logro para nosotros, al proporcionar una herramienta innovadora que optimiza la gestión del tiempo y los recursos en la agricultura, mejorando la eficiencia y la productividad para nuestros clientes."
+        image: assets/img/timeline/7.png
         alt: image alt text
         # you can enforce the alignment
     end: "¡Se parte <br> de Nuestra <br> Historia!"
@@ -231,7 +230,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre nosotros"
     text: ""
-    body: "στ o Sigma-tau nace como una iniciativa de profesionales relacionados al mundo de Data Science, con la clara misión de optimizar los procesos que puedan mejorar a partir de los datos. Para lograr este objetivo, se cuenta con un grupo de profesionales altamente capacitados en diferentes áreas relacionadas a la Inteligencia Artificial, que van desde problemas de Forecasting, diseño de evaluación de campañas de Marketing hasta Análitica textual para el análisis de sentimientos."
+    body: "Agrodomz nació de la pasión por la optimización de procesos a través de los datos. Nuestro equipo de expertos en Data Science y AI está comprometido con la excelencia y la innovación en todas las áreas, desde el forecasting hasta el análisis de sentimientos."
     section: nosotros
 
   clients:
@@ -245,27 +244,27 @@ es: &DEFAULT_ES
         logo: assets/img/clients/bank.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/hat2.png
+        logo: assets/img/clients/tech.png
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/retail.png
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/energy.png
+        logo: assets/img/clients/agro.png
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
     text: "Comité ejecutivo"
-    subtext: Nuestro equipo está compuesto por profesionales altamente capacitados que siempre van a la vanguardia del conocimiento relacionado a la Inteligencia Artificial. Esto se ve reflejado en sus constantes  presencias en congresos y su activa participación en proyectos open source.
+    subtext: Nuestro equipo está comprometido con la excelencia y la innovación, demostrado a través de su participación activa en la comunidad de IA y su contribución a proyectos de código abierto.
     section: equipo
     people:
-      - name: "Diego Alvarez"
+      - name: "Juan Etchebarne"
         role: "Chief Executive Officer"
-        image: assets/img/team/dalvarez.jpg
+        image: assets/img/team/jm.jpg
         social:
-          - url: https://github.com/diegoalvarezmeza
+          - url: https://github.com/jmetchebarne
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/diego-alvarez-meza-674ba3154/
+          - url: https://www.linkedin.com/in/juan-manuel-etchebarne-arias-56846b132/
             icon: fab fa-linkedin-in
       - name: "Francisco Alfaro"
         role: "Chief Technology Officer"
@@ -275,18 +274,11 @@ es: &DEFAULT_ES
             icon: fab fa-github
           - url: https://www.linkedin.com/in/faam/
             icon: fab fa-linkedin-in
-      - name: "Francisco Benavides"
-        role: "Chief AI Officer"
-        image: assets/img/team/fbenavides.jpg
-        social:
-          - url: https://github.com/fbenav
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/francisco-benavides-653544a9/
-            icon: fab fa-linkedin-in
+
 
   contact:
     title: "Contáctenos"
-    text: "Sigmatau.aa@gmail.com o llamar al +56968458008"
+    text: "agrodomz.aa@gmail o llamar al +56992401445"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -302,9 +294,9 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://www.linkedin.com/company/sigma-tau-chile
+      - url: https://www.linkedin.com/company/agrodomz
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/Sigma-Tau
+      - url: https://github.com/agrodomz
         icon: "fab fa-github"
 
 es-ES:
