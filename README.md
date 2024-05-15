@@ -1,52 +1,59 @@
-# ¡Bienvenido a Sigma-Tau!
+# ¡Bienvenido a Agrodomz!
 
-[![example workflow](https://github.com/fralfaro/agency-website/actions/workflows/documentation.yml/badge.svg)](https://github.com/fralfaro/agency-website/actions)
-[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://fralfaro.github.io/agency-website/)
+[![example workflow](https://github.com/agrodomz/agency-website/actions/workflows/documentation.yml/badge.svg)](https://github.com/agrodomz/agency-website/actions)
+[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://agrodomz.github.io/agency-website/)
 
-Soluciones Basadas en Inteligencia Artificial que Optimizarán el Rendimiento de tu Compañía.
+Optimiza el Potencial de tu Empresa con Soluciones Basadas en Inteligencia Artificial.
 
 ### SERVICIOS
 
-- **Soluciones a medida:** Facilitamos el proceso de transición diseñando soluciones personalizadas basadas en datos.
-  
-- **Soluciones Empresariales:** Contamos con amplia experiencia en empresas de sectores como retail, industria energética y banca, ofreciendo soluciones pre diseñadas para optimizar tu empresa.
+- **Soluciones Personalizadas:** Facilitamos tu transición hacia la era digital con soluciones diseñadas a medida, aprovechando el poder de los datos para impulsar tu negocio.
 
-- **Educación:** Llevamos a tu equipo de Analytics al siguiente nivel con nuestros programas de capacitación, abarcando diversos tópicos dentro del mundo del Data Science y la Inteligencia Artificial.
+- **Soluciones Empresariales :** Desde retail hasta banca, nuestro expertise abarca una amplia gama de industrias. Ofrecemos soluciones pre-diseñadas para mejorar la eficiencia y la rentabilidad de tu empresa.
+
+- **Capacitación Avanzada:** Eleva el nivel de tu equipo con nuestros programas de formación en Data Science e Inteligencia Artificial, diseñados para impulsar la capacidad analítica y la innovación dentro de tu organización.
 
 ### PORTAFOLIO
 
-- **Blog:** Explora nuestros artículos sobre análisis de datos y tendencias en inteligencia artificial.
+- **Blog:** Sumérgete en nuestro análisis de datos y descubre las últimas tendencias en inteligencia artificial.
 
-- **Educación:** Descubre nuestros cursos de formación en análisis de datos y técnicas de inteligencia artificial.
+- **Educación:** Explora nuestros cursos especializados para adquirir habilidades en análisis de datos y técnicas avanzadas de IA.
 
-- **Charlas:** Asiste a nuestras conferencias y charlas sobre temas relevantes en el ámbito del análisis de datos y la inteligencia artificial.
+- **Eventos:** Participa en nuestras conferencias y charlas sobre los temas más relevantes en el mundo del análisis de datos y la IA.
 
 ### SOBRE NOSOTROS
 
-Sigma-tau nace como una iniciativa de profesionales relacionados al mundo de Data Science, con la clara misión de optimizar los procesos que puedan mejorar a partir de los datos. Contamos con un grupo de profesionales altamente capacitados en diferentes áreas relacionadas a la Inteligencia Artificial, que van desde problemas de Forecasting, diseño de evaluación de campañas de Marketing hasta Análitica textual para el análisis de sentimientos.
+Agrodomz nació de la pasión por la optimización de procesos a través de los datos. Nuestro equipo de expertos en Data Science y AI está comprometido con la excelencia y la innovación en todas las áreas, desde el forecasting hasta el análisis de sentimientos.
+
+### INNOVACIÓN DESTACADA
+
+#### Nueva Herramienta: AgroSense
+
+Introducimos AgroSense, una plataforma revolucionaria que utiliza inteligencia artificial para optimizar la producción agrícola. Desde la predicción de cosechas hasta la gestión de plagas, AgroSense está diseñado para maximizar la eficiencia y la sostenibilidad en la agricultura moderna.
 
 ### CRONOLOGÍA
 
-#### Nuestra Historia
+#### Nuestra Trayectoria
 
-- **2011-2017:** Nuestro equipo de ingenieros matemáticos se formó en la Universidad Federico Santa María (USM), fortaleciendo habilidades en análisis, modelado y resolución de problemas complejos a través de proyectos desafiantes.
+- **2011-2017:** Formación de nuestro equipo en la Universidad Federico Santa María y la Universidad de los Andes, adquiriendo habilidades en análisis y modelado de datos.
 
-- **2018-2022:** Nos destacamos en una amplia gama de sectores y roles, especialmente en perfiles de datos. Adquirimos un profundo conocimiento, tanto en habilidades técnicas como de liderazgo.
+- **2018-2022:** Consolidación de nuestra experiencia en diversos sectores, destacando en perfiles de análisis de datos y liderazgo.
 
-- **2022-2023:** Nuestro comienzo como consultora surgió de la visión compartida de un equipo diverso de expertos en tecnología, estrategia y creatividad.
+- **2022-2023:** Fundación de Agrodomz como consultora de referencia en IA y Data Science.
 
-- **2023-2024:** Nuestro primer cliente, ‘Cambios La Torre’, nos buscó para mejorar su gestión de datos financieros. Desarrollamos soluciones innovadoras que optimizaron la recopilación, almacenamiento y análisis de datos.
+- **2023-2024:** Lanzamiento exitoso de AgroCrono, nuestra innovadora solución para el sector agrícola.
 
-### NUESTRO INCREÍBLE EQUIPO
+### NUESTRO EQUIPO ESTELAR
 
-#### Comité ejecutivo
+#### Comité Ejecutivo
 
-- **Diego Alvarez:** Chief Executive Officer
-- **Francisco Alfaro:** Chief Technology Officer
-- **Francisco Benavides:** Chief AI Officer
+- **Juan Etchebarne :** CEO
+- **Francisco Alfaro:** CTO
 
-Nuestro equipo está compuesto por profesionales altamente capacitados que siempre van a la vanguardia del conocimiento relacionado a la Inteligencia Artificial. Esto se ve reflejado en sus constantes presencias en congresos y su activa participación en proyectos open source.
+Nuestro equipo está comprometido con la excelencia y la innovación, demostrado a través de su participación activa en la comunidad de IA y su contribución a proyectos de código abierto.
 
-### CONTÁCTENOS
+### CONTÁCTANOS
 
-¡Queremos saber de ti! Contáctanos por correo electrónico a Sigmatau.aa@gmail.com o llámanos al +56968458008.
+¡Hablemos! Escríbenos a agrodomz.aa@gmail.com o llámanos al +
+para descubrir cómo podemos potenciar tu empresa con inteligencia artificial.
+
