@@ -295,9 +295,9 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://www.linkedin.com/company/DataDomz
+      - url: https://www.linkedin.com/company/datadomz
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/DataDomz
+      - url: https://github.com/datadomz
         icon: "fab fa-github"
 
 es-ES:
