@@ -170,7 +170,7 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a AgroDomz!
+    title: ¡Bienvenido a DataDomz!
     text: Optimiza el Potencial de tu Empresa con Soluciones Basadas en Inteligencia Artificial
     button: Ver más
     buttonlink: "#servicios"
@@ -216,7 +216,7 @@ es: &DEFAULT_ES
         alt:
       - title: "Nuestro comienzo"
         year: "2022-2023"
-        desc: "En los años 2022-2023, dimos el primer paso hacia nuestra visión al fundar Agrodomz como una consultora líder en inteligencia artificial y ciencia de datos. Este fue un momento crucial en nuestra historia, donde nos comprometimos a ofrecer soluciones innovadoras que impulsaran el crecimiento y la transformación digital en diversas industrias."
+        desc: "En los años 2022-2023, dimos el primer paso hacia nuestra visión al fundar DataDomz como una consultora líder en inteligencia artificial y ciencia de datos. Este fue un momento crucial en nuestra historia, donde nos comprometimos a ofrecer soluciones innovadoras que impulsaran el crecimiento y la transformación digital en diversas industrias."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Nuestro Cliente"
@@ -230,7 +230,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre nosotros"
     text: ""
-    body: "Agrodomz nació de la pasión por la optimización de procesos a través de los datos. Nuestro equipo de expertos en Data Science y AI está comprometido con la excelencia y la innovación en todas las áreas, desde el forecasting hasta el análisis de sentimientos."
+    body: "DataDomz nació de la pasión por la optimización de procesos a través de los datos. Nuestro equipo de expertos en Data Science y AI está comprometido con la excelencia y la innovación en todas las áreas, desde el forecasting hasta el análisis de sentimientos."
     section: nosotros
 
   clients:
@@ -240,13 +240,18 @@ es: &DEFAULT_ES
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
+        url: 
         logo: assets/img/clients/bank.png
       - title: "designmodo"
+        url: 
         logo: assets/img/clients/tech.png
       - title: "themeforest"
+        url: 
         logo: assets/img/clients/retail.png
       - title: "Creative Market"
+        url: 
         logo: assets/img/clients/agro.png
+
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
@@ -274,7 +279,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "agrodomz.aa@gmail o llamar al +56992401445"
+    text: "DataDomz.aa@gmail o llamar al +56992401445"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -290,9 +295,9 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://www.linkedin.com/company/agrodomz
+      - url: https://www.linkedin.com/company/DataDomz
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/agrodomz
+      - url: https://github.com/DataDomz
         icon: "fab fa-github"
 
 es-ES:
