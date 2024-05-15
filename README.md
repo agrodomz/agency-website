@@ -35,13 +35,25 @@ Introducimos AgroSense, una plataforma revolucionaria que utiliza inteligencia a
 
 #### Nuestra Trayectoria
 
-- **2011-2017:** Formación de nuestro equipo en la Universidad Federico Santa María y la Universidad de los Andes, adquiriendo habilidades en análisis y modelado de datos.
+**2011-2017:** 
 
-- **2018-2022:** Consolidación de nuestra experiencia en diversos sectores, destacando en perfiles de análisis de datos y liderazgo.
+Durante los años 2011-2017, nuestro equipo se formó en instituciones líderes como la Universidad Federico Santa María y
+la Universidad de los Andes. Adquirimos habilidades sólidas en análisis y modelado de datos, preparándonos para enfrentar 
+desafíos complejos en el mundo de la inteligencia artificial.
 
-- **2022-2023:** Fundación de DataDomz como consultora de referencia en IA y Data Science.
+**2018-2022:** 
 
-- **2023-2024:** Lanzamiento exitoso de AgroCrono, nuestra innovadora solución para el sector agrícola.
+Desde 2018 hasta 2022, consolidamos nuestra experiencia en una amplia variedad de sectores.
+Nos destacamos en perfiles de análisis de datos y liderazgo, colaborando en proyectos que nos permitieron aplicar nuestras habilidades 
+de manera efectiva y alcanzar resultados excepcionales para nuestros clientes.
+
+**2022-2023:** 
+
+En los años 2022-2023, dimos el primer paso hacia nuestra visión al fundar DataDomz como una consultora líder en inteligencia artificial y ciencia de datos. Este fue un momento crucial en nuestra historia, donde nos comprometimos a ofrecer soluciones innovadoras que impulsaran el crecimiento y la transformación digital en diversas industrias.
+
+**2023-2024:** 
+
+En el período 2023-2024, lanzamos con éxito AgroCrono, nuestra solución pionera diseñada específicamente para el sector agrícola. Este hito marcó un importante logro para nosotros, al proporcionar una herramienta innovadora que optimiza la gestión del tiempo y los recursos en la agricultura, mejorando la eficiencia y la productividad para nuestros clientes.
 
 ### NUESTRO EQUIPO ESTELAR
 
@@ -54,6 +66,5 @@ Nuestro equipo está comprometido con la excelencia y la innovación, demostrado
 
 ### CONTÁCTANOS
 
-¡Hablemos! Escríbenos a datadomz.aa@gmail.com o llámanos al +
+¡Hablemos! Escríbenos a datadomz.aa@gmail.com o llámanos al + 56992401445
 para descubrir cómo podemos potenciar tu empresa con inteligencia artificial.
-
