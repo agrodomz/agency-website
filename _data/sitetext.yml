@@ -240,16 +240,12 @@ es: &DEFAULT_ES
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/bank.png
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/tech.png
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/retail.png
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/agro.png
 
   team:
